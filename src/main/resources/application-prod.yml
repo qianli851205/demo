@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+filepath: d:/download
+content: "该文件存放于: ${filepath}"
+
+person:
+    name: 生产环境部：王五
+    age:  18
+    phone: 13853866416
+    address: 山东泰安

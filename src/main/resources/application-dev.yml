@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+filepath: d:/download
+content: "该文件存放于: ${filepath}"
+
+person:
+    name: 开发环境部：李四
+    age:  18
+    phone: 13853866416
+    address: 山东泰安
